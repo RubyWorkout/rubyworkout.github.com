@@ -13,26 +13,21 @@ title: Ruby presentations
   <br>
   <small>Start working with Ruby!</small>
 
-
 - [OOP in Ruby](/slides/oop)
   <br>
   <small>How works OOP model in Ruby.</small>
-
 
 - [Metaprogramming](/slides/metaprogramming)
   <br>
   <small>Metaprogramming... it sounds cool! It doesn’t just sound cool; it is cool.</small>
 
-
 - [Ruby gems](/slides/ruby-gems)
   <br>
   <small>How to use Ruby gems and write your own.</small>
 
-
 - [Rake](/slides/rake)
   <br>
   <small>Rake is a Make-like program implemented in Ruby, build tool for Ruby developers.</small>
-
 
 - [RSpec](/slides/rspec)
   <br>
@@ -41,14 +36,6 @@ title: Ruby presentations
 - [Continuous integration](/slides/continuous_integration)
   <br>
   <small>How works Continuous integration.</small>
-
-<!-- - [CircleCi](/slides/circleci)
-  <br>
-  <small>Continuous integration with CircleCi.</small>
-
-- [Refactoring in Ruby](/slides/refactoring-ruby)
-  <br>
-  <small>Learn how to do refactoring in Ruby.</small> -->
 
 - [Refactoring](/slides/refactoring-ruby)
   <br>
@@ -59,37 +46,47 @@ title: Ruby presentations
   <small>Where only web-requests dare to go.</small>
 
 
-
 ## Ruby on Rails
 
 - [Rails](/slides/rails)
   <br>
   <small>The first meet.</small>
 
-
 - [Models](/slides/models)
   <br>
   <small>Models and ActiveRecord</small>
-
 
 - [Routes](/slides/routes)
   <br>
   <small>Features of Rails routing.</small>
 
-
 - [Controllers](/slides/controllers)
   <br>
   <small>How controllers work and how they fit into the request cycle in your application.</small>
 
+- [Views](/slides/views)
+  <br>
+  <small>Views in Rails</small>
+
+- [Rails Engine](/slides/rails-engine)
+  <br>
+  <small>Meet Rails Engines.</small>
 
 - [Refactoring in Rails](/slides/refactoring-rails)
   <br>
   <small>Learn how to do refactoring in Rails.</small>
 
-
-- [Views](/slides/views)
+- [Dox](/slides/dox)
   <br>
-  <small>Views in Rails</small>
+  <small>Automated API documentation tool for Rspec.</small>
+
+- [RESTApi (API)](/slides/api)
+  <br>
+  <small>Writing API in Rails.</small>
+
+- [Sidekiq](/slides/sidekiq)
+  <br>
+  <small>Background jobs processing.</small>
 
 <!--
 - [HTML & CSS](/slides/html-css)
@@ -102,34 +99,19 @@ title: Ruby presentations
   <small>Modules, Semantics and Grids</small>
 -->
 
-- [BDD in Rails](/slides/bdd)
+<!-- - [BDD in Rails](/slides/bdd)
   <br>
-  <small>Learn how to do behavior-driven development in Rails.</small>
+  <small>Learn how to do behavior-driven development in Rails.</small> -->
 
 
-- [Devise](/slides/devise)
+<!-- - [Devise](/slides/devise)
   <br>
   <small>Flexible authentication solution for Rails with Warden.</small>
 
 
 - [CanCanCan](/slides/cancancan)
   <br>
-  <small>The authorization Gem for Ruby on Rails.</small>
-
-
-- [Rails Engine](/slides/rails-engine)
-  <br>
-  <small>Meet Rails Engines.</small>
-
-
-- [RESTApi (API)](/slides/api)
-  <br>
-  <small>Writing API in Rails.</small>
-
-
-- [Sidekiq](/slides/sidekiq)
-  <br>
-  <small>Background jobs processing.</small>
+  <small>The authorization Gem for Ruby on Rails.</small> -->
 
 <!--
 ## Trailblazer
@@ -167,31 +149,35 @@ title: Ruby presentations
   <small>AngularJS is a structural JavaScript framework for dynamic web apps.</small>
 -->
 
-
-## Utils
+## Tools
 
 - [Git](/slides/git)
   <br>
   <small>Distributed version control system</small>
 
-
 - [Static code analysis](/slides/static-code-analysis)
   <br>
   <small>Write your code clean and beautiful.</small>
 
-
-- [Chef](/slides/chef)
+- [CircleCi](/slides/circleci)
   <br>
-  <small>Prepare and configure server environment.</small>
+  <small>Continuous integration with CircleCi.</small>
 
-
-- [Capistrano](/slides/capistrano)
+- [Docker](/slides/docker)
   <br>
-  <small>Application deploy.</small>
+  <small>Docker and friends.</small>
 
 - [AWS](/slides/aws)
   <br>
   <small>Amazon Web Services</small>
+
+<!-- - [Chef](/slides/chef)
+  <br>
+  <small>Prepare and configure server environment.</small>
+
+- [Capistrano](/slides/capistrano)
+  <br>
+  <small>Application deploy.</small> -->
 
 <!--
 # Additional

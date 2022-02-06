@@ -1,11 +1,6 @@
-title: RubyGarage Slides
-email: info@rubygarage.org
-description: >
-baseurl: ""
-url: "https://rubygarage.github.io"
-repository: "rubygarage/slides"
-twitter_username: timlar_ua
-github_username: timlar
+domain: rubyworkout.github.io
+url: https://rubyworkout.github.io
+baseurl: /rubyworkout.github.io/
 
 ######################################################################################################################
 #                                           DO NOT EDIT SETTINGS BELOW !!!                                           #
