@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ruby presentations
+title: RubyWorkout
 ---
 
 ## Ruby
